@@ -6,7 +6,7 @@ Purpose
 -
 The SQL scripts included here can be used to produce an SQL database containing boxscores and basic player & team info for the 2010-11 to 2019-20 NBA seasons.
 
-All data was retrieved from the stats.nba.com api using the [nba\_api client](www.github.com/swar/nba_api).
+All data was retrieved from the stats.nba.com api using the [nba\_api client](https://www.github.com/swar/nba_api).
 The data may be incomplete and is not necessarily correct. 
 
 The purpose of this project was for me to practice database design and SQL querying.
